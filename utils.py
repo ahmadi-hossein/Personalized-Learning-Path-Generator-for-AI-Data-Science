@@ -3,7 +3,7 @@ from fpdf import FPDF
 
 # Load resources dataset
 def load_resources():
-    return pd.read_csv("data/resources.csv")
+    return pd.read_csv("resources.csv")
 
 # Generate personalized recommendations
 def generate_recommendations(current_skills, learning_goals):
