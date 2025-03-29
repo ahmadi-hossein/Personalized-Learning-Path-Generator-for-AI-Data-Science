@@ -1,0 +1,105 @@
+Skill,Prerequisite,Title,Type,Link
+Python,,Learn Python the Hard Way,Book,https://learnpythonthehardway.org/
+Python,,Python Data Science Handbook,Book,https://jakevdp.github.io/PythonDataScienceHandbook/
+Python,,Python for Data Analysis,Book,https://www.oreilly.com/library/view/python-for-data/9781491957653/
+Python,,Complete Python Developer in 2023,Course,https://www.udemy.com/course/complete-python-developer-zero-to-mastery/
+Python,,Interactive Python Dashboards with Plotly,Course,https://www.coursera.org/learn/python-dashboards-plotly
+Statistics,,Statistics for Data Science,Course,https://www.udemy.com/course/stats-for-data-science/
+Statistics,,Practical Statistics for Data Scientists,Book,https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/
+Statistics,,The Elements of Statistical Learning,Book,https://web.stanford.edu/~hastie/ElemStatLearn/
+SQL,,SQL Bolt,Tutorial,https://sqlbolt.com/
+SQL,,The Complete SQL Bootcamp,Course,https://www.udemy.com/course/the-complete-sql-bootcamp/
+SQL,SQL in 10 Minutes, Sams Teach Yourself,Book,https://www.informit.com/store/sql-in-10-minutes-sams-teach-yourself-9780135182796
+Data Cleaning,Pandas,Data Cleaning with Python and Pandas,Course,https://www.pluralsight.com/courses/python-pandas-data-cleaning
+Data Cleaning,Python,Python Data Cleaning Cookbook,Book,https://www.packtpub.com/product/python-data-cleaning-cookbook/9781800565661
+Data Visualization,Matplotlib,Python Plotting with Matplotlib,Tutorial,https://matplotlib.org/stable/tutorials/index.html
+Data Visualization,Seaborn,Data Visualization with Seaborn,Course,https://www.datacamp.com/courses/data-visualization-with-seaborn
+Data Visualization,Tableau,Tableau 2023: Data Visualization,Course,https://www.udemy.com/course/tableau10/
+Data Visualization,Python,Data Visualization with Bokeh,Tutorial,https://docs.bokeh.org/en/latest/docs/user_guide.html
+Machine Learning,Python,Introduction to Machine Learning with Python,Book,https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
+Machine Learning,Python,Machine Learning Crash Course,Tutorial,https://developers.google.com/machine-learning/crash-course
+Machine Learning,Statistics,Pattern Recognition and Machine Learning,Book,https://www.springer.com/gp/book/9780387310732
+Deep Learning,Python,Deep Learning with PyTorch,Book,https://pytorch.org/deep-learning-with-pytorch/
+Deep Learning,Python,Deep Learning with TensorFlow,Course,https://www.udemy.com/course/deep-learning-tensorflow/
+Deep Learning,TensorFlow,TensorFlow in Practice Specialization,Course,https://www.coursera.org/specializations/tensorflow-in-practice
+Natural Language Processing,Python,NLP with Python and NLTK,Tutorial,https://www.nltk.org/howto.html
+Natural Language Processing,Deep Learning,Practical NLP with spaCy,Course,https://spacy.io/usage/spacy-101
+Natural Language Processing,Python,NLP with Deep Learning,Course,https://www.udemy.com/course/nlp-natural-language-processing-with-python/
+Computer Vision,Python,Practical OpenCV with Python,Course,https://www.packtpub.com/product/practical-python-and-opencv/9781788297684
+Computer Vision,Deep Learning,Deep Learning for Computer Vision,Book,https://www.manning.com/books/deep-learning-for-vision-systems
+Computer Vision,TensorFlow,Computer Vision with TensorFlow,Course,https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+Generative AI,Deep Learning,Generative Deep Learning,Book,https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/
+Generative AI,Python,Creative AI with GANs,Course,https://www.udemy.com/course/generative-adversarial-networks-gans/
+Generative AI,TensorFlow,TensorFlow for Generative AI,Tutorial,https://www.tensorflow.org/tutorials/generative
+Big Data,Hadoop,Hadoop: The Definitive Guide,Book,https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/
+Big Data,Spark,Learning Apache Spark,Course,https://www.datacamp.com/courses/introduction-to-pyspark
+Big Data,Python,Big Data Analysis with Python,Course,https://www.pluralsight.com/courses/big-data-analysis-python
+Cloud Computing,AWS,AWS Essentials,Course,https://www.aws.training/Details/eLearning?id=60697
+Cloud Computing,Azure,Microsoft Azure Fundamentals,Certification,https://learn.microsoft.com/en-us/certifications/azure-fundamentals/
+Cloud Computing,GCP,Google Cloud for Data Science,Course,https://www.udemy.com/course/google-cloud-for-data-science/
+Time Series Analysis,Python,Time Series Forecasting with Python,Book,https://www.manning.com/books/time-series-forecasting-in-python
+Time Series Analysis,Statistics,Time Series Analysis and Its Applications,Book,https://www.springer.com/gp/book/9783319524511
+Time Series Analysis,R,Time Series Analysis with R,Course,https://www.datacamp.com/courses/time-series-analysis-in-r
+Anomaly Detection,Python,Anomaly Detection with Python,Course,https://www.udemy.com/course/anomaly-detection-python/
+Anomaly Detection,Machine Learning,Practical Anomaly Detection,Tutorial,https://scikit-learn.org/stable/modules/outlier_detection.html
+AutoML,Python,AutoML with H2O.ai,Tutorial,https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html
+AutoML,Machine Learning,Google Cloud AutoML,Course,https://cloud.google.com/automl
+MLOps,Machine Learning,MLOps with Kubeflow,Tutorial,https://www.kubeflow.org/docs/
+MLOps,Python,Building Machine Learning Pipelines,Book,https://www.oreilly.com/library/view/building-machine-learning/9781492053187/
+Web Development,Python,Django for Beginners,Book,https://djangoforbeginners.com/
+Web Development,JavaScript,The Complete JavaScript Course,Course,https://www.udemy.com/course/the-complete-javascript-course/
+Cybersecurity,,Cybersecurity Fundamentals,Course,https://www.edx.org/course/cybersecurity-fundamentals
+Cybersecurity,Python,Python for Cybersecurity,Course,https://www.udemy.com/course/python-for-cybersecurity/
+Blockchain,,Blockchain Basics,Course,https://www.coursera.org/learn/blockchain-basics
+Blockchain,Python,Building Blockchain Projects,Book,https://www.packtpub.com/product/building-blockchain-projects/9781787122147
+DevOps,,DevOps Fundamentals,Course,https://www.pluralsight.com/courses/devops-fundamentals
+DevOps,Docker,Docker for DevOps,Course,https://www.udemy.com/course/docker-for-devops/
+Quantum Computing,,Quantum Computing for Everyone,Book,https://mitpress.mit.edu/books/quantum-computing-everyone
+Quantum Computing,Python,Quantum Machine Learning,Course,https://www.udemy.com/course/quantum-machine-learning/
+Game Development,Python,Game Development with Pygame,Tutorial,https://www.pygame.org/docs/
+Game Development,Unity,Unity Game Development Fundamentals,Course,https://www.coursera.org/learn/unity-game-development
+Robotics,Python,Robotics with ROS,Tutorial,https://www.ros.org/
+Robotics,,Introduction to Robotics,Course,https://www.edx.org/course/introduction-to-robotics
+AI Ethics,,AI Ethics: A Guide to Moral Decision Making,Book,https://www.amazon.com/AI-Ethics-Guide-Moral-Decision/dp/1492055091
+AI Ethics,Python,Ethical AI Development,Tutorial,https://www.ethicalai.dev/
+Reinforcement Learning,Python,Reinforcement Learning: An Introduction,Book,https://mitpress.mit.edu/books/reinforcement-learning-second-edition
+Reinforcement Learning,Python,Deep Reinforcement Learning,Course,https://www.udemy.com/course/deep-reinforcement-learning/
+Transformers,Python,Transformers for NLP,Course,https://huggingface.co/learn/nlp-course/
+Transformers,Python,Attention Is All You Need,Research Paper,https://arxiv.org/abs/1706.03762
+IoT,Python,Internet of Things with Raspberry Pi,Tutorial,https://projects.raspberrypi.org/en/projects/physical-computing
+IoT,,IoT Fundamentals,Course,https://www.cisco.com/c/en/us/training-events/training-certifications/courses/iot-fundamentals.html
+AR/VR,Unity,AR/VR Development with Unity,Course,https://learn.unity.com/course/virtual-reality
+AR/VR,Python,AR/VR with Python,Tutorial,https://www.youtube.com/watch?v=AR_VR_Python_Tutorial
+Edge Computing,,Edge Computing Fundamentals,Course,https://www.coursera.org/learn/edge-computing
+Edge Computing,Python,Edge AI with TensorFlow Lite,Tutorial,https://www.tensorflow.org/lite
+Skill,Prerequisite,Title,Type,Link
+Natural Language Understanding,NLP,Natural Language Understanding with Transformers,Course,https://huggingface.co/learn/nlp-course/
+Natural Language Understanding,NLP,Deep Learning for NLU,Book,https://www.manning.com/books/deep-learning-for-nlu
+Speech Recognition,Python,Speech Recognition with Python,Tutorial,https://realpython.com/python-speech-recognition/
+Speech Recognition,Deep Learning,DeepSpeech: Open Source Speech Recognition,Course,https://deepspeech.readthedocs.io/en/latest/
+Computer Vision,Python,OpenCV for Computer Vision,Tutorial,https://docs.opencv.org/master/d9/df8/tutorial_root.html
+Computer Vision,Deep Learning,Advanced Computer Vision with TensorFlow,Course,https://www.udemy.com/course/advanced-computer-vision/
+Reinforcement Learning,Python,Reinforcement Learning: An Introduction,Book,https://mitpress.mit.edu/books/reinforcement-learning-second-edition
+Reinforcement Learning,Python,Deep Reinforcement Learning,Course,https://www.udemy.com/course/deep-reinforcement-learning/
+Knowledge Representation and Reasoning,AI,KRR: Principles and Techniques,Book,https://www.amazon.com/Knowledge-Representation-Reasoning-Artificial-Intelligence/dp/1558609326
+Knowledge Representation and Reasoning,AI,Introduction to KRR,Tutorial,https://www.cs.ox.ac.uk/teaching/materials16-17/kr.pdf
+Expert Systems,AI,Building Expert Systems in Prolog,Book,https://www.amzi.com/ExpertSystemsInProlog/
+Expert Systems,AI,Rule-Based Systems,Tutorial,https://www.geeksforgeeks.org/rule-based-expert-systems-in-artificial-intelligence/
+Swarm Intelligence,AI,Swarm Intelligence: From Natural to Artificial Systems,Book,https://www.amazon.com/Swarm-Intelligence-Natural-Artificial-Systems/dp/0195131592
+Swarm Intelligence,AI,Swarm Algorithms,Tutorial,https://www.tutorialspoint.com/swarm_intelligence/index.htm
+Evolutionary Algorithms,AI,Genetic Algorithms and Evolutionary Computation,Book,https://www.amazon.com/Introduction-Evolutionary-Computing-Natural/dp/3540424512
+Evolutionary Algorithms,AI,Evolutionary Algorithms in Python,Tutorial,https://towardsdatascience.com/evolutionary-algorithms-in-python-a-practical-guide-5f1d6c7b7a5a
+Cognitive Computing,AI,Cognitive Computing: Theory and Applications,Book,https://www.amazon.com/Cognitive-Computing-Applications-Handbook/dp/0128054755
+Cognitive Computing,AI,IBM Watson Cognitive Computing,Tutorial,https://www.ibm.com/cloud/watson
+Explainable AI,Machine Learning,Interpretable Machine Learning,Book,https://christophm.github.io/interpretable-ml-book/
+Explainable AI,Machine Learning,XAI: Explainable AI,Tutorial,https://www.darpa.mil/program/explainable-artificial-intelligence
+AI Ethics and Fairness,AI,AI Ethics: A Guide to Moral Decision Making,Book,https://www.amazon.com/AI-Ethics-Guide-Moral-Decision/dp/1492055091
+AI Ethics and Fairness,AI,Ethical AI Development,Tutorial,https://www.ethicalai.dev/
+Edge AI,Python,Edge AI with TensorFlow Lite,Tutorial,https://www.tensorflow.org/lite
+Edge AI,Python,Deploying AI Models on Edge Devices,Course,https://www.udemy.com/course/edge-ai-deployment/
+Augmented Intelligence,AI,Human-Centered AI,Book,https://www.amazon.com/Human-Centered-AI-Ben-Shneiderman/dp/0197568426
+Augmented Intelligence,AI,Designing Augmented Intelligence Systems,Tutorial,https://www.interaction-design.org/literature/topics/augmented-intelligence
+Human-Robot Interaction,Robotics,Human-Robot Interaction: An Introduction,Book,https://www.amazon.com/Human-Robot-Interaction-Introduction-Technology/dp/1107047684
+Human-Robot Interaction,Robotics,HRI: Principles and Practices,Tutorial,https://www.hri-conference.org/
+Multi-Agent Systems,AI,Multi-Agent Systems: An Introduction,Book,https://www.amazon.com/Multiagent-Systems-Algorithmic-Game-Theoretic/dp/0521899435
+Multi-Agent Systems,AI,Multi-Agent Reinforcement Learning,Tutorial,https://arxiv.org/abs/2007.05723
